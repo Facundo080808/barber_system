@@ -1,7 +1,6 @@
 import { StatusBar } from 'expo-status-bar';
-import { useState, useEffect } from 'react';
 import { StyleSheet, Text, View } from 'react-native';
-import { supabase } from './config/supabase';
+
 
 export default function App() {
   return (
